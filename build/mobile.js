@@ -1,0 +1,1 @@
+webpackJsonp([1],[function(e,n,o){"use strict";function t(e){return e&&e.__esModule?e:{default:e}}o(1);var d=o(6),l=(t(d),document.createElement("div"));l.innerHTML="<h1>Hello World mobile</h1>",document.body.appendChild(l)}]);
