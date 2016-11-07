@@ -5,15 +5,14 @@
     	[
     		"import", {
     			"libraryName": "antd",
-                "libraryDirectory": "lib",
-    			"style": true
+    			"style": "css"
     		}
     	]
     ],
 
     "env": {
         "development": {
-            "presets": ["react-hmre"]
+
         }
    }
 }
